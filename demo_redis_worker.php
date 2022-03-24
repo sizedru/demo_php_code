@@ -17,7 +17,6 @@ function getWEBResource($url)
         CURLOPT_HEADER => false,
         CURLOPT_FOLLOWLOCATION => true,
         CURLOPT_ENCODING => "",
-        CURLOPT_USERAGENT => "RDFinance",
         CURLOPT_AUTOREFERER => true,
         CURLOPT_CONNECTTIMEOUT => 10,
         CURLOPT_TIMEOUT => 10,
