@@ -1,2 +1,2 @@
-PHP demo code for head hunters
+PHP code for head hunters
 
