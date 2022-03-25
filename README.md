@@ -1,2 +1,2 @@
-PHP code for head hunters
+code for head hunters
 
