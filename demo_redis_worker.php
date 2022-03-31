@@ -301,7 +301,7 @@ if($c > 0){
                 if(!$dry){
                     $redis->setEx('order_for_ander_'.$val,240, $onlyOrderKeys[$i]);
 
-                    $SQL="INSERT IGNORE ................");";
+                    $SQL="INSERT IGNORE ................";
                     DB::execute($SQL);
                 }
 
